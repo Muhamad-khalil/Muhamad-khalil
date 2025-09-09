@@ -10,7 +10,7 @@
 <br><br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhamad-khalil-912529371)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat&logo=react&logoColor=61DAFB)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=react&logoColor=61DAFB)](https://your-portfolio-link.com)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:medo.khalil.01.18@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MohamedKhalil&style=flat&color=orange&label=PROFILE+VIEWS)
@@ -24,7 +24,8 @@
 - 🎯 Passionate about building **modern, responsive, and user-friendly web apps**
 - 🧩 Exploring **Frontend architecture & clean code**
 - 💬 Ask me about **React.js, JavaScript, and Frontend Development**
-- 📫 Reach me at **your-email@example.com**
+- 📫 Reach me at **[medo.khalil.01.18@gmail.com](mailto:medo.khalil.01.18@gmail.com)**
+- 🌐 Connect with me on **[LinkedIn](https://www.linkedin.com/in/muhamad-khalil-912529371)**
 
 ---
 
@@ -75,3 +76,4 @@
 ### 💡 “Code is like humor. When you have to explain it, it’s bad.”
 
 </div>
+
