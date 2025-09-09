@@ -2,7 +2,7 @@
   
 <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/hellocoders_rounded.gif" width="60%" alt="Hello Coders" />
 
-<h1>👋 Hi, I'm Mohamed Khalil</h1>
+<h1>👋 Hi, I'm Muhamad Khalil</h1>
 <h3>💻 Frontend Developer | React.js Specialist</h3>
 
 <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="40%" alt="Workspace" />
