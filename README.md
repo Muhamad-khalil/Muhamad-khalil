@@ -30,7 +30,7 @@ Currently, I'm enhancing my skills in **SEO optimization**.
 ## 🛠️ **Skills & Technologies**
 
 ### **💻 Web Development**
-- **Frontend:** HTML, CSS, JavaScript, React.js, Redux, Redux Toolkit, React Router, Next.js
+- **Frontend:** HTML, CSS, JavaScript, React.js, Redux, Redux Toolkit, React Router
 - **CSS Frameworks:** Tailwind CSS, Material UI, Bootstrap
 - **Backend Basics:** Node.js, Express.js
 - **Database:** MongoDB
