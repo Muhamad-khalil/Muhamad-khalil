@@ -23,7 +23,7 @@
 As a **Frontend Developer**, I specialize in creating **responsive** and **visually compelling** web applications using **HTML**, **CSS**, **JavaScript**, and **modern frameworks** like **React.js**.  
 I focus on **performance optimization**, **cross-browser compatibility**, and building **user-centric interfaces**.  
 With extensive **freelancing experience**, I’ve become highly adaptable across **diverse projects** and excel in **team collaboration** to deliver high-quality solutions.  
-Currently, I'm enhancing my skills in **Next.js**, **TypeScript**, and **SEO optimization**.
+Currently, I'm enhancing my skills in **SEO optimization**.
 
 ---
 
@@ -37,7 +37,6 @@ Currently, I'm enhancing my skills in **Next.js**, **TypeScript**, and **SEO opt
 - **Version Control:** Git & GitHub
 - **API Testing:** Postman
 - **SEO:** Implementing best practices for better search engine rankings
-- **TypeScript:** Strong understanding of TypeScript for frontend development
 
 ---
 
