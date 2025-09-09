@@ -11,7 +11,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/muhamad-khalil-912529371)
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat&logo=react&logoColor=61DAFB)](https://your-portfolio-link.com)
-[![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail&logoColor=white)](medo.khalil.01.18@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:medo.khalil.01.18@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MohamedKhalil&style=flat&color=orange&label=PROFILE+VIEWS)
 
