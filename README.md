@@ -51,8 +51,8 @@ Currently, I'm enhancing my skills in **SEO optimization**.
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=MohamedKhalil&show_icons=true&theme=tokyonight" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=MohamedKhalil&theme=tokyonight&hide_border=false" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Muhamad-Khalil&show_icons=true&theme=tokyonight" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Muhamad-Khalil&theme=tokyonight&hide_border=false" width="49%" />
 
 </div>
 
