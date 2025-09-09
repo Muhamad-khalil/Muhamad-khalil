@@ -20,27 +20,31 @@
 ---
 
 ## 🚀 **About Me**
-- 🌱 I’m currently learning **Advanced React.js, Next.js, and Performance Optimization**
-- 🎯 Passionate about building **modern, responsive, and user-friendly web apps**
-- 🧩 Exploring **Frontend architecture & clean code**
-- 💬 Ask me about **React.js, JavaScript, and Frontend Development**
-- 📫 Reach me at **[medo.khalil.01.18@gmail.com](mailto:medo.khalil.01.18@gmail.com)**
-- 🌐 Connect with me on **[LinkedIn](https://www.linkedin.com/in/muhamad-khalil-912529371)**
+As a **Frontend Developer**, I specialize in creating **responsive** and **visually compelling** web applications using **HTML**, **CSS**, **JavaScript**, and **modern frameworks** like **React.js**.  
+I focus on **performance optimization**, **cross-browser compatibility**, and building **user-centric interfaces**.  
+With extensive **freelancing experience**, I’ve become highly adaptable across **diverse projects** and excel in **team collaboration** to deliver high-quality solutions.  
+Currently, I'm enhancing my skills in **Next.js**, **TypeScript**, and **SEO optimization**.
 
 ---
 
-## 🛠️ **Tech Stack & Tools**
+## 🛠️ **Skills & Technologies**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
+### **💻 Web Development**
+- **Frontend:** HTML, CSS, JavaScript, React.js, Redux, Redux Toolkit, React Router, Next.js
+- **CSS Frameworks:** Tailwind CSS, Material UI, Bootstrap
+- **Backend Basics:** Node.js, Express.js
+- **Database:** MongoDB
+- **Version Control:** Git & GitHub
+- **API Testing:** Postman
+- **SEO:** Implementing best practices for better search engine rankings
+- **TypeScript:** Strong understanding of TypeScript for frontend development
+
+---
+
+### **📂 Project Management & Collaboration**
+- Agile methodologies & team collaboration
+- Project tracking tools like **Jira**
+- Skilled in delivering **responsive**, **optimized**, and **scalable** solutions
 
 ---
 
@@ -76,4 +80,3 @@
 ### 💡 “Code is like humor. When you have to explain it, it’s bad.”
 
 </div>
-
