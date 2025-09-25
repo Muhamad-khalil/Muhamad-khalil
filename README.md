@@ -33,11 +33,6 @@ As a **Frontend Developer**, I specialize in creating **responsive** and **visua
 - **Database:** MongoDB
 - **Version Control:** Git & GitHub
 - **API Testing:** Postman
-- **SEO:** Implementing best practices for better search engine rankings
-
----
-
-### **📂 Project Management & Collaboration**
 - Agile methodologies & team collaboration
 - Project tracking tools like **Jira**
 - Skilled in delivering **responsive**, **optimized**, and **scalable** solutions
@@ -54,15 +49,13 @@ As a **Frontend Developer**, I specialize in creating **responsive** and **visua
 </div>
 
 ---
-
-## 🗂️ **Top Projects**
-
+{* ## 🗂️ **Top Projects**
 | Project | Description | Tech |
 |--------|------------|------|
 | [🔗 Portfolio Website](https://your-portfolio-link.com) | Personal portfolio showcasing my projects & skills | React, TailwindCSS |
 | [📱 Todo App](https://github.com/your-username/todo-app) | A modern todo app with React hooks & local storage | React, CSS |
 | [🌐 Weather App](https://github.com/your-username/weather-app) | A weather forecast app using OpenWeather API | React, Bootstrap |
-
+*}
 ---
 
 ## 🎧 **Coding Vibes**
