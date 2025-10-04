@@ -34,9 +34,7 @@
 <h2>🚀 &nbsp;About Me</h2>
 
 As a **Frontend Developer**, I specialize in creating **responsive** and **visually compelling** web applications using **HTML**, **CSS**, **JavaScript**, and **modern frameworks** like **React.js**.  
-I focus on **performance optimization**, **cross-browser compatibility**, and building **user-centric interfaces**.  
-
-With extensive **freelancing experience**, I’ve become highly adaptable across **diverse projects** and excel in **team collaboration** to deliver high-quality solutions.  
+I focus on **performance optimization**, **cross-browser compatibility**, and building **user-centric interfaces**. With extensive **freelancing experience**, I’ve become highly adaptable across **diverse projects** and excel in **team collaboration** to deliver high-quality solutions.  
 Currently, I'm enhancing my skills in **SEO optimization**.
 
 ---
