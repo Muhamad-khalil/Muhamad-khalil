@@ -58,11 +58,6 @@ As a **Frontend Developer**, I specialize in creating **responsive** and **visua
 
 ---
 
-## 🎧 **Coding Vibes**
-
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/)
-
----
 
 <div align="center">
 
