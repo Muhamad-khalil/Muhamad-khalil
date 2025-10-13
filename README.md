@@ -88,7 +88,13 @@ As a **Frontend Developer**, I specialize in creating **responsive** and **visua
   <img src="https://github-readme-stats.vercel.app/api?username=Muhamad-Khalil&show_icons=true&theme=tokyonight" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Muhamad-Khalil&theme=tokyonight&hide_border=false" width="49%" />
 </div>
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Muhamad-khalil&show_icons=true&locale=en&layout=compact" alt="Muhamad-khalil" />
+</p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Muhamad-khalil&show_icons=true&locale=en" alt="Muhamad-khalil" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhamad-khalil&" alt="Muhamad-khalil" /></p>
 ---
 
 <h3 align="center">💡 “Code is like humor. When you have to explain it, it’s bad.”</h3>
