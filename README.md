@@ -85,11 +85,11 @@ As a **Frontend Developer**, I specialize in creating **responsive** and **visua
 <h2>📊 &nbsp;GitHub Stats</h2>
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Muhamad-khalil&show_icons=true&locale=en&layout=compact" alt="Muhamad-khalil" width="49%" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Muhamad-khalil&show_icons=true&locale=en&layout=compact" alt="Muhamad-khalil"/>
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Muhamad-khalil&show_icons=true&locale=en" alt="Muhamad-khalil" width="49%" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Muhamad-khalil&show_icons=true&locale=en" alt="Muhamad-khalil" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhamad-khalil&" alt="Muhamad-khalil" width="49%" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhamad-khalil&" alt="Muhamad-khalil" /></p>
 ---
 
 <h3 align="center">💡 “Code is like humor. When you have to explain it, it’s bad.”</h3>
