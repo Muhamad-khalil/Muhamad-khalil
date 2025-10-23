@@ -82,14 +82,38 @@ As a **Frontend Developer**, I specialize in creating **responsive** and **visua
 
 ---
 
-<h2>📊 &nbsp;GitHub Stats</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Muhamad-khalil&show_icons=true&locale=en&layout=compact" alt="Muhamad-khalil"/>
-</p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Muhamad-khalil&show_icons=true&locale=en" alt="Muhamad-khalil" /></p>
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhamad-khalil&" alt="Muhamad-khalil" /></p>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhamad-khalil&layout=compact&langs_count=6&theme=default" 
+    alt="Top Languages" 
+    width="450" 
+    height="180"
+    style="object-fit: cover; border-radius: 10px;"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Muhamad-khalil&show_icons=true&theme=default" 
+    alt="GitHub Stats" 
+    width="450" 
+    height="180"
+    style="object-fit: cover; border-radius: 10px;"
+  />
+
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Muhamad-khalil&theme=default" 
+    alt="GitHub Streak" 
+    width="450" 
+    height="180"
+    style="object-fit: cover; border-radius: 10px;"
+  />
+
+</div>
+
+
+
 ---
 
 <h3 align="center">💡 “Code is like humor. When you have to explain it, it’s bad.”</h3>
