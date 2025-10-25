@@ -2,7 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 
-<h1 align="center">👋 Hi, I'm Muhamad Khalil</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+Muhamed+Khalil;Frontend+Developer;Nice+to+meet+you+%F0%9F%91%8B&center=true&size=30">
+  </a>
+</h1>
 <h3 align="center">💻 Frontend Developer | React.js Specialist</h3>
 
 <p align="center">
