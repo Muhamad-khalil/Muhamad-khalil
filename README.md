@@ -117,11 +117,6 @@ As a **Frontend Developer**, I specialize in creating **responsive** and **visua
 </div>
 
 
-
----
-
-<h3 align="center">💡 “Code is like humor. When you have to explain it, it’s bad.”</h3>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
