@@ -46,8 +46,6 @@ As a **Frontend Developer**, I specialize in creating **responsive** and **visua
 ### 💻 **Web Development**
 - **Frontend:** HTML, CSS, JavaScript, React.js, Redux, Redux Toolkit, React Router  
 - **CSS Frameworks:** Tailwind CSS, Material UI, Bootstrap  
-- **Backend Basics:** Node.js, Express.js  
-- **Database:** MongoDB  
 - **Version Control:** Git & GitHub  
 - **API Testing:** Postman  
 - **Project Management:** Jira, Agile methodologies  
