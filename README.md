@@ -24,9 +24,6 @@
   <a href="https://portfolio-k-h.netlify.app/">
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
   </a>
-  <a href="mailto:medo.khalil.01.18@gmail.com">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-  </a>
 </p>
 
 <p align="center">
